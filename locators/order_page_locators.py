@@ -14,7 +14,7 @@ class Locators:
     PHONE = (By.XPATH, "//input[@placeholder= '* Телефон: на него позвонит курьер']")
     NEXT_BUTTON = (By.XPATH, "//button[@class= 'Button_Button__ra12g Button_Middle__1CSJM']")
     CALENDAR = (By.XPATH, "//input[@placeholder= '* Когда привезти самокат']")
-    DAY = (By.XPATH, "//div[@aria-label = 'Choose вторник, 26-е ноября 2024 г.']")
+    DAY = (By.XPATH, "//div[@aria-label = 'Choose четверг, 30-е января 2025 г.']")
     HOW_LONG_FIELD = (By.XPATH, "//div[@class = 'Dropdown-placeholder']")
     HOW_LONG = (By.XPATH, "// *[text() = 'двое суток']")
     COLOR = (By.XPATH, "// *[text() = 'чёрный жемчуг']")
